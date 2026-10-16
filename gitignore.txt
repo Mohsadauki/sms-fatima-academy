@@ -1,0 +1,25 @@
+# Build results
+bin/
+obj/
+[Dd]ebug/
+[Rr]elease/
+*.dll
+*.exe
+*.pdb
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userprefs
+*.cache
+
+# Database files - never commit real data
+*.accdb
+*.mdb
+*.ldb
+!school_sample.accdb
+
+# OS files
+.DS_Store
+Thumbs.db

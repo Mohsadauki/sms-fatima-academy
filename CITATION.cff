@@ -1,0 +1,31 @@
+cff-version: 1.2.0
+message: "If you use this software or the accompanying paper, please cite it as below."
+type: software
+title: "School Management System: Design and Implementation for Fatima Academy, Nguru"
+abstract: >-
+  A desktop School Management System built in C# with a Microsoft Access
+  database for Fatima Academy, Nguru, Yobe State, Nigeria. It supports staff
+  and student registration, school fee records, and automatic computation of
+  subject totals, grades and averages with role-based login access.
+authors:
+  - family-names: Abubakar
+    given-names: Muhammad Ali
+    affiliation: "Department of Computer Science, Yobe State University, Damaturu, Nigeria"
+  - family-names: Trader
+    given-names: Mubarak Usman
+  - family-names: Garba
+    given-names: Adamu Abdullahi
+    affiliation: "Department of Computer Science, Yobe State University, Damaturu, Nigeria"
+version: 1.0.0
+date-released: 2026-05-16
+doi: 10.5281/zenodo.23424238
+url: "https://doi.org/10.5281/zenodo.23424238"
+license: MIT
+keywords:
+  - school management system
+  - educational technology
+  - student result processing
+  - information systems
+  - C#
+  - Microsoft Access
+  - Nigeria
