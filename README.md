@@ -103,6 +103,6 @@ Academic project, published for reference and learning. **Not production-ready.*
 
 ## Acknowledgements
 
-Supervisor: Mal. Adamu Abdullahi Garba, Department of Computer Science, Yobe State University, Damaturu, Nigeria.
+Supervisor: Mal. Adamu Abdullahi Garba, Department of Computer Science,   Yobe State University, Damaturu, Nigeria.
 
 The management and staff of Fatima Academy, Nguru, for their participation in requirements gathering and user acceptance testing.
